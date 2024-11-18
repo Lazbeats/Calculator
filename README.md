@@ -1,6 +1,5 @@
 This repository contains a Simple Online Calculator built using HTML and CSS. 
 The calculator provides a clean and modern user interface with a gradient background and easy-to-use buttons for basic arithmetic operations.
-It is perfect for learning and showcasing basic web development skills.
 
 Features:
 Responsive design with a visually appealing gradient background.
